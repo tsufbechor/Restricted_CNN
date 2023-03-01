@@ -28,8 +28,12 @@ I took the original training dataset and executed random rotations,flips,crops,e
 
 Increasing the number of examples trained on, had a tangible effect on the performance and 
 generalization of the model.
-Accuracy:
-![image](https://user-images.githubusercontent.com/81694762/222184841-1295e5b9-4939-41ec-a8a2-a8fcc29298ed.png)
+
+Results:
+=
+![image](https://user-images.githubusercontent.com/81694762/222185451-79b7719a-fb0b-4725-a7ab-2fe8816d39d4.png)
+![image](https://user-images.githubusercontent.com/81694762/222185545-4756fee3-cf94-4be0-876b-ac5bbd610139.png)
+
 
 
 
