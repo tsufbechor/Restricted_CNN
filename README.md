@@ -1,10 +1,11 @@
 
 Introduction:
-=
+
 In this project I am training a CNN on the Cifar10 dataset. 
 I aim to achieve 80%+ accuracy on the test set.
 I am limiting the model to a maximum amount of 50,000 parameters. 
 Challenges:
+
 Most state of the art CNN NN have >>>50,000 parameters, so taking inspiration from these models would be difficult.
 Adding more layers to our NN could help achieve 80% accuracy but each layer would add parameters to the model.
 There is a definite tradeoff between the complexity of the model (#parameters) and the accuracy.
